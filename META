@@ -1,0 +1,4 @@
+description = "Interface to native OCaml big integers."
+archive(byte) = "extractionBigInt.cma"
+archive(native) = "extractionBigInt.cmxa"
+requires = "num"

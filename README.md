@@ -1,2 +1,2 @@
-# coq-extraction-big-int-ocaml
+# Extraction BigInt OCaml
 Interface to native OCaml big integers.
